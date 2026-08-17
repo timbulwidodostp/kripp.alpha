@@ -1,6 +1,8 @@
 # kripp.alpha
 Calculate Krippendorff's alpha reliability coefficient Use kripp.alpha (irr) With (In) R Software
 
+https://www.youtube.com/watch?v=g57tfLpooFA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
